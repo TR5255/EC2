@@ -1,2 +1,2 @@
 # EC2
-Codeine Rain
+EC2
